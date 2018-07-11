@@ -27,18 +27,9 @@ public class SampleTest {
 		
 		//veena3 changed
 		System.out.println("veena3");		
-
-		//veena4changed
-		System.out.println("veena4");	
-		
-		
-		//veena5changed
-				System.out.println("veena5");
-				//veena6changed
-				System.out.println("veena6");
-
 //deepa changed
 		System.out.println("added by Deepa4");
 System.out.println("added by Deepa5");
-}
+	}
+
 }
