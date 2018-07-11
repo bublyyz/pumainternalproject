@@ -7,6 +7,7 @@ public class SampleTest {
 	@Test
 	public void CreateUser(){
 		System.out.println("hiiii");
+		System.out.println("Pushing 1st time");
 	}
 
 }
