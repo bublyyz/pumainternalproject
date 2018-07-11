@@ -11,25 +11,7 @@ public class SampleTest {
 		System.out.println("added by Deepa");
 		System.out.println("added by Deepa1");
 
-		System.out.println("added by Veena1");
 		
-		
-
-		//jhfgjhgjhgjhg
-		System.out.println("added by Deepa2");
-		
-
-		//veena changed
-		System.out.println("veena2");		
-
-		//deepa changed
-		System.out.println("added by Deepa3");
-		
-		//veena3 changed
-		System.out.println("veena3");		
-//deepa changed
-		System.out.println("added by Deepa4");
-System.out.println("added by Deepa5");
 	}
 
 }
