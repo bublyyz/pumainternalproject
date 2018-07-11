@@ -10,6 +10,9 @@ System.out.println("local");
 
 
 		System.out.println("github");
+		System.out.println("local1");
+		
+		System.out.println("github1");
 	}
 
 }
