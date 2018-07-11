@@ -30,8 +30,16 @@ public class SampleTest {
 
 		//veena4changed
 		System.out.println("veena4");	
+		
 		//veena5changed
 				System.out.println("veena5");
-		
+				//veena6changed
+				System.out.println("veena6");
+//deepa changed
+		System.out.println("added by Deepa4");
+System.out.println("added by Deepa5");
+//deepa changed
+		System.out.println("added by Deepa4");
+System.out.println("added by Deepa5");
 	}
 }
